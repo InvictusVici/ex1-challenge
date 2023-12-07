@@ -1,9 +1,0 @@
-Example challenge from Barbara Forbes.
-
-This is a new line.
-
-And another line.
-
-Additional line for learning.
-
-Learning VSC visuals.
